@@ -120,8 +120,10 @@ elif name == 'LaneLayer':
 ## Credits:
 
 Yolov4 是参考 WongKinYiu 大神的版本:
-
 https://github.com/WongKinYiu/PyTorch_YOLOv4
+
+车道线检测是参考 Ultra Fast Structure-aware Deep Lane Detection：
+https://arxiv.org/abs/2004.11757
 
 
 
